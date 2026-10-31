@@ -1,0 +1,6 @@
+{
+  "name": "Bazaar Ramah Lingkungan Kelas X-H",
+  "description": "Website resmi booth bazaar ramah lingkungan Kelas X-H SMA: panduan pot pupuk, pot bunga daur ulang, identifikasi sampah, dan sistem voting senyuman kepuasan pengunjung online.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
